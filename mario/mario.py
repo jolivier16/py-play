@@ -18,5 +18,4 @@ if not low < width <= high:
     height = input("Width: ")
 
 for i in (width):
-    print("#")
 
