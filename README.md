@@ -1,0 +1,1 @@
+this is my learning python project dump, mostly some scripts and random testing that doesnt fit into a formal project
